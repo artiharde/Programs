@@ -23,6 +23,8 @@ int main(void)
 
     }
 
+	printf("Thank you");
+    
     return 0;
 
 }
